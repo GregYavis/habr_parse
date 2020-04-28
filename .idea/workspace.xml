@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d6fe30-2fa7-4fd6-8b3d-5134f46229f9" name="Default Changelist" comment="" />
+    <list default="true" id="65d6fe30-2fa7-4fd6-8b3d-5134f46229f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fff.py" beforeDir="false" afterPath="$PROJECT_DIR$/fff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/tester.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1adT9bi8Ya983d5CPVdyy0MRsBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +35,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/.local/lib/python3.6/site-packages/telegramtui" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.TEST">
+  <component name="RunManager" selected="Python.BSParser">
     <configuration name="BSParser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +102,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testingone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testingone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,10 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TEST" />
-        <item itemvalue="Python.tester" />
         <item itemvalue="Python.BSParser" />
+        <item itemvalue="Python.TEST" />
+        <item itemvalue="Python.testingone" />
         <item itemvalue="Python.tst" />
+        <item itemvalue="Python.tester" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +177,10 @@
       <workItem from="1587672878382" duration="1128000" />
       <workItem from="1587761062561" duration="4679000" />
       <workItem from="1587801942303" duration="5488000" />
-      <workItem from="1587815976606" duration="4758000" />
+      <workItem from="1587815976606" duration="12872000" />
+      <workItem from="1587894369125" duration="19459000" />
+      <workItem from="1587920100964" duration="4896000" />
+      <workItem from="1587985268575" duration="24679000" />
     </task>
     <servers />
   </component>
@@ -162,40 +197,66 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2108" y="412" width="591" height="200" key="Github.ShareDialog/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587827800734" />
-    <state width="1817" height="464" key="GridCell.Tab.0.bottom" timestamp="1587665505752">
-      <screen x="57" y="25" width="1863" height="1055" />
-    </state>
-    <state width="1234" height="226" key="GridCell.Tab.0.bottom/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587554881061" />
-    <state width="1817" height="464" key="GridCell.Tab.0.bottom/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505752" />
-    <state width="1817" height="464" key="GridCell.Tab.0.center" timestamp="1587665505752">
-      <screen x="57" y="25" width="1863" height="1055" />
-    </state>
-    <state width="1234" height="226" key="GridCell.Tab.0.center/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587554881061" />
-    <state width="1817" height="464" key="GridCell.Tab.0.center/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505752" />
-    <state width="1817" height="464" key="GridCell.Tab.0.left" timestamp="1587665505751">
-      <screen x="57" y="25" width="1863" height="1055" />
-    </state>
-    <state width="1234" height="226" key="GridCell.Tab.0.left/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587554881061" />
-    <state width="1817" height="464" key="GridCell.Tab.0.left/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505751" />
-    <state width="1817" height="464" key="GridCell.Tab.0.right" timestamp="1587665505752">
-      <screen x="57" y="25" width="1863" height="1055" />
-    </state>
-    <state width="1234" height="226" key="GridCell.Tab.0.right/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587554881061" />
-    <state width="1817" height="464" key="GridCell.Tab.0.right/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505752" />
-    <state x="57" y="214" width="996" height="482" key="dock-window-1" timestamp="1587816269223">
-      <screen x="57" y="25" width="1863" height="1055" />
-    </state>
-    <state x="57" y="214" width="996" height="482" key="dock-window-1/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587816269223" />
-    <state x="1920" y="0" width="1280" height="1011" key="dock-window-1/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505896" />
-    <state x="1920" y="65" width="1280" height="519" key="dock-window-2" timestamp="1587665505896">
+    <state x="2352" y="199" width="405" height="620" key="Github.UntrackedFilesDialog" timestamp="1587827870175">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
+    <state x="2352" y="199" width="405" height="620" key="Github.UntrackedFilesDialog/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587827870175" />
+    <state width="1817" height="127" key="GridCell.Tab.0.bottom" timestamp="1588032036723">
+      <screen x="57" y="25" width="1863" height="1055" />
+    </state>
+    <state width="1234" height="428" key="GridCell.Tab.0.bottom/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587994070578" />
+    <state width="1817" height="127" key="GridCell.Tab.0.bottom/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1588032036723" />
+    <state width="1817" height="127" key="GridCell.Tab.0.center" timestamp="1588032036723">
+      <screen x="57" y="25" width="1863" height="1055" />
+    </state>
+    <state width="1234" height="428" key="GridCell.Tab.0.center/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587994070578" />
+    <state width="1817" height="127" key="GridCell.Tab.0.center/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1588032036723" />
+    <state width="1817" height="127" key="GridCell.Tab.0.left" timestamp="1588032036723">
+      <screen x="57" y="25" width="1863" height="1055" />
+    </state>
+    <state width="1234" height="428" key="GridCell.Tab.0.left/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587994070578" />
+    <state width="1817" height="127" key="GridCell.Tab.0.left/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1588032036723" />
+    <state width="1817" height="127" key="GridCell.Tab.0.right" timestamp="1588032036723">
+      <screen x="57" y="25" width="1863" height="1055" />
+    </state>
+    <state width="1234" height="428" key="GridCell.Tab.0.right/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587994070578" />
+    <state width="1817" height="127" key="GridCell.Tab.0.right/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1588032036723" />
+    <state width="1234" height="334" key="GridCell.Tab.1.bottom" timestamp="1587920058631">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="334" key="GridCell.Tab.1.bottom/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587920058631" />
+    <state width="1234" height="334" key="GridCell.Tab.1.center" timestamp="1587920058631">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="334" key="GridCell.Tab.1.center/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587920058631" />
+    <state width="1234" height="334" key="GridCell.Tab.1.left" timestamp="1587920058631">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="334" key="GridCell.Tab.1.left/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587920058631" />
+    <state width="1234" height="334" key="GridCell.Tab.1.right" timestamp="1587920058631">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="334" key="GridCell.Tab.1.right/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587920058631" />
+    <state x="2170" y="125" width="770" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587901512548">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2170" y="125" width="770" height="767" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587901512548" />
+    <state x="277" y="25" width="1081" height="678" key="dock-window-1" timestamp="1587986862732">
+      <screen x="57" y="25" width="1863" height="1055" />
+    </state>
+    <state x="277" y="25" width="1081" height="678" key="dock-window-1/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587986862732" />
+    <state x="1920" y="0" width="1280" height="1011" key="dock-window-1/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505896" />
+    <state x="406" y="32" width="1091" height="980" maximized="true" key="dock-window-2" timestamp="1587909112322">
+      <screen x="57" y="25" width="1863" height="1055" />
+    </state>
+    <state x="406" y="32" width="1091" height="980" maximized="true" key="dock-window-2/57.25.1863.1055/1920.0.1280.1024@1920.0.1280.1024" timestamp="1587909112322" />
     <state x="1920" y="65" width="1280" height="519" key="dock-window-2/57.25.1863.1055/1920.0.1280.1024@57.25.1863.1055" timestamp="1587665505896" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$tst.coverage" NAME="tst Coverage Results" MODIFIED="1587569859540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$tester.coverage" NAME="tester Coverage Results" MODIFIED="1587662359115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$BSParser.coverage" NAME="BSParser Coverage Results" MODIFIED="1587659308492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1587665242152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$tst.coverage" NAME="tst Coverage Results" MODIFIED="1587841592232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$testingone.coverage" NAME="testingone Coverage Results" MODIFIED="1587907497208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$tester.coverage" NAME="tester Coverage Results" MODIFIED="1587838356098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$BSParser.coverage" NAME="BSParser Coverage Results" MODIFIED="1588018086728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1587986478320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
